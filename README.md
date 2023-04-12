@@ -1,3 +1,1 @@
-# flipcart-images-and-innerside-specification
-extract all the images and specifications of each phone from Flipkart
-using scrapy and create xpath
+Using Scrapy, we can extract all the images and specifications of each phone from Flipkart. To do this, we need to create an XPath expression that can locate the specific elements that we need to extract. We can identify the image elements by their HTML tag <img>, and the specifications can be located using the unique class names or IDs of the element on the page. Once we have extracted the data, we can store it in a structured format such as CSV or JSON for further analysis.
